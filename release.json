@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "product": "AgenticManager",
+  "version": "0.9.9",
+  "releasedAt": "2026-11-20T16:54:51.686922Z",
+  "channel": "stable",
+  "package": {
+    "source": "3ddrive",
+    "tenant": "DSEXT001",
+    "folderId": "48538D987DAF1C006A5F62D8000D1E2C",
+    "fileId": "660E470267E201006B007B5B002288D8",
+    "filename": "Release_Agentic_Manager_V0.9.9.zip",
+    "sizeBytes": 107367799,
+    "sha256": "3bb4a4b6d51a9764f69f50d2b3bb9e76cb6cc8fbed7d4f5aff6e90cdfdce038c"
+  },
+  "policy": {
+    "mandatory": false,
+    "deferHours": 72
+  }
+}
